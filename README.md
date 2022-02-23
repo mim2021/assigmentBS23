@@ -1,3 +1,3 @@
 # assigmentBS23
-IDE: intellij
+IDE: intellij,
 Test tool: Selenium
